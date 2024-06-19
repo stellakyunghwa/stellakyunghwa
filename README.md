@@ -51,9 +51,3 @@
 </div>
 
 <br/>
-<div>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongye001" width=43.4% /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jeongye01&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=50.6% />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeongye01&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-  <a href="https://github.com/jeongye01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongye01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
